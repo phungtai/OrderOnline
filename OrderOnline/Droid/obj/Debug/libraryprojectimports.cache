@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>obj/Debug/__library_projects__/Xamarin.Android.Support.Annotations/library_project_imports/support-annotations.jar;/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Annotations/library_project_imports/support-annotations.jar;/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Compat/library_project_imports/bin/classes.jar;/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.CustomTabs/library_project_imports/bin/classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Plugin.CurrentActivity/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Plugin.Share/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.CurrentActivity/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Plugin.Share/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/DATA/WORK/OrderOnline/Droid/obj/Debug/__library_projects__/Plugin.Share.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
